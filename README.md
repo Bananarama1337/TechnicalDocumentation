@@ -1,7 +1,8 @@
 # TechnicalDocumentation
 
-Ссылка на сайт: https://bananarama1337.github.io/TechnicalDocumentation/
 Сайт с теорией по JavaScript.
+
+Ссылка на сайт: https://bananarama1337.github.io/TechnicalDocumentation/
 
 Содержит в себе: фиксированную навигацию и часть с текстом.
 
